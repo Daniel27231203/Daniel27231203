@@ -20,28 +20,6 @@ Currently learning **React Native** to expand into mobile dev 🚀
 
 ---
 
-## 📁 Featured Projects
-
-### 🎬 Movie Explorer
-
-React + Redux Toolkit + Sass  
-Search and browse movies with full details from external API.  
-[🔗 Live Demo](#) | [📦 Code](#)
-
-### 🧭 Tour Booking Platform
-
-Next.js + TypeScript + Zustand + Supabase  
-Book tours across Kyrgyzstan with flexible bonuses and rewards.  
-[🔗 Live Demo](#) | [📦 Code](#)
-
-### 🕹️ DOM Game Playground
-
-Vanilla JS + CSS  
-Fun DOM manipulation projects and games.  
-[🔗 Live Demo](#) | [📦 Code](#)
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -64,11 +42,44 @@ _(Animated 3D visualization of your commits, buildings grow by number of commits
 
 ---
 
+## 📁 Featured Projects
+
+### 🌍 Jarkyra
+
+React + Next.js + TypeScript + Zustand  
+Платформа для совместного планирования и управления проектами.  
+[🔗 Live Demo](#https://www.jarkyra.kg/)
+
+### 🎬 Movie Explorer
+
+React + Redux Toolkit + Sass  
+Search and browse movies with full details from external API.  
+[🔗 Live Demo](#https://mymovie-kg.vercel.app/search/search)
+
+### 🧭 Tour Booking Platform
+
+Next.js + TypeScript + Zustand + Supabase  
+Book tours across Kyrgyzstan with flexible bonuses and rewards.  
+[🔗 Live Demo](#https://nomad-land-kg.vercel.app/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel27231203&show_icons=true&theme=tokyonight&hide=prs" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel27231203&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel27231203&theme=tokyonight" />
+</p>
+
+---
+
 ## 📫 How to reach me
 
 - Email: [daniel.mukhamedjanov@gmail.com](mailto:daniel.mukhamedjanov@gmail.com)
-- Telegram: [@danielcode](https://t.me/danielcode) _(или вставь актуальный ник)_
-- Portfolio: [Coming Soon 🚧]
+- Telegram: [@Muhamedjanov_Daniel](https://t.me/Muhamedjanov_Daniel)
 
 ---
 
